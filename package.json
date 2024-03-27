@@ -1,0 +1,16 @@
+{
+  "name": "project-backend-demo",
+  "version": "1.0.0",
+  "description": "A Practice for professional Project Background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "backend"
+  ],
+  "author": "Suman Karan",
+  "license": "ISC"
+}
